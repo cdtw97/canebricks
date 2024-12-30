@@ -1,0 +1,123 @@
+{
+  "url_one": {
+    "0": {
+      "controller_variant": "western-star",
+      "controller": "westernstars"
+    },
+    "1": {
+      "controller_variant": "freightliner",
+      "controller": "freightliners"
+    },
+    "2": {
+      "controller_variant": "service",
+      "controller": "services"
+    },
+    "3": {
+      "controller_variant": "sales-team",
+      "controller": "salesteams"
+    },
+    "4": {
+      "controller_variant": "vin-decoder",
+      "controller": "vindecoders"
+    },
+    "5": {
+      "controller_variant": "elite-support",
+      "controller": "elitesupports"
+    },
+    "6": {
+      "controller_variant": "contact",
+      "controller": "contacts"
+    },
+    "7": {
+      "controller_variant": "join-our-team",
+      "controller": "joinourteam"
+    },
+    "8": {
+      "controller_variant": "get-a-quote",
+      "controller": "quotes"
+    },
+    "9": {
+        "controller_variant": "error",
+        "controller": "errors"
+      },
+      "10": {
+        "controller_variant": "quote",
+        "controller": "quotes"
+      }
+  },
+
+
+
+
+
+  "url_two": {
+    "0": {
+      "controller_variant": "108sd",
+      "controller": "model108sd"
+    },
+    "1": {
+      "controller_variant": "114sd",
+      "controller": "model114sd"
+    },
+    "2": {
+      "controller_variant": "122sd",
+      "controller": "model122sd"
+    },
+    "3": {
+      "controller_variant": "49x",
+      "controller": "model49x"
+    },
+    "4": {
+      "controller_variant": "6900",
+      "controller": "model6900"
+    },
+    "5": {
+      "controller_variant": "4900",
+      "controller": "model4900"
+    },
+    "6": {
+      "controller_variant": "5700",
+      "controller": "model5700"
+    },
+    "7": {
+      "controller_variant": "4700",
+      "controller": "model4700"
+    },
+    "8": {
+      "controller_variant": "4800",
+      "controller": "model1800"
+    },
+    "9": {
+      "controller_variant": "parts-after-hours",
+      "controller": "partsAfterHours"
+    },
+    "10": {
+      "controller_variant": "pinnacle-truck-parts",
+      "controller": "pinnacleTruckParts"
+    },
+    "11": {
+      "controller_variant": "express-assessment",
+      "controller": "expressAssessment"
+    },
+    "12": {
+      "controller_variant": "onsite-repair",
+      "controller": "onsiteRepair"
+    },
+    "13": {
+      "controller_variant": "trucking-lounge",
+      "controller": "truckingLounge"
+    },
+    "14": {
+      "controller_variant": "western-star",
+      "controller": "westernstars"
+    },
+    "15": {
+        "controller_variant": "404",
+        "controller": "error404"
+      },
+      "16": {
+        "controller_variant": "truck-parts-database",
+        "controller": "truckpartsdatabase"
+      }
+  }
+}

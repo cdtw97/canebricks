@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sendgrid/sendgrid": "^7.11",
+        "composer/ca-bundle": "^1.3"
+    }
+}
